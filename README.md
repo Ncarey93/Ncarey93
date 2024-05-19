@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicholas Carey
-- 👀 I’m interested in Tech, namely Mechatronics and Software
-- 🌱 I’m currently learning Kinematics
+- 👀 I’m interested in Tech, namely Web Development and Software Engineering
+- 🌱 I’m currently learning Web Development and Data Analytics
 - 💞️ I’m looking to collaborate on future projects
 - 📫 You can reach me through GitHib @ Ncarey93, or my email Cyberkake93@gmail.com
 
